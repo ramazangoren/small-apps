@@ -1,0 +1,10 @@
+free API's 
+
+https://jsonplaceholder.typicode.com/
+
+https://randomuser.me/
+
+
+https://www.boredapi.com/documentation
+
+https://api.quotable.io/random
